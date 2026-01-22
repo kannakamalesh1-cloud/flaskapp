@@ -1,4 +1,4 @@
-from ubuntu:22.04
+FROM ubuntu:22.04
 
 # Update and install necessary packages
 RUN apt-get update && \
